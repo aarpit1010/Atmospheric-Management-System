@@ -1,0 +1,14 @@
+For the E-Mail System to work, you need to install two libraries and include jar files in the Library folder :-
+1. activation-jaf1.1.1.jar
+2. java-mail-1.4.jar
+
+* All other library are included in the IDE and the built jar file.
+* JDK 14 and above is required.
+
+
+PROCEDURE TO RUN
+1. Firstly, see that there are two ways to run the project application. 
+2. The first one is the “Swing_proj.jar” file in this folder and another one which is present in the folder “dist/Swing_proj.jar”. 
+3. When you open the jar file, the application will begin to run. 
+4. Also we can open and run the project from the .java files in the “src” folder with the help of any JAVA IDE. 
+5. The advantage of using .jar files is that it can run on any platform without the need for a separate folder for dependencies or the need of an IDE.
